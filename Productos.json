@@ -1,0 +1,58 @@
+{
+  "Productos": [
+    {
+      "codigo": "Producto 1",
+      "nombre": "Carpa de camping Aguila",
+      "descripcion": "Carpa de camping con puerta y mosquitero",
+      "imagen": "./imagenes/carpacamping.jpg",
+      "detalle": "Cubretecho Poliéster PU.190T. Costuras Termo Selladas. Columna de agua 1500 mm. Efecto impermeabilizante 2000 mm. Piso de Polietileno 12×10 130 g/m². Varillas de Fibra de Vidrio. Ventilación trasera + estacas de acero.",
+      "precio": "$ 95300.-",
+      "puntuacion": "*****"
+    },
+    {
+      "codigo": "Producto 2",
+      "nombre": "Banquito plegable",
+      "descripcion": "Banquito Plegable de 3 Patas",
+      "imagen": "./imagenes/banquitoplegable.jpg",
+      "detalle": "Ideal para llevar en la mochila o bolso por su pequeño tamaño. Soporta hasta 100 kg. Caño de hierro pintado. Con funda",
+      "precio": "$ 8300.-",
+      "puntuacion": "****"
+    },
+    {
+      "codigo": "Producto 3",
+      "nombre": "Aislante térmico",
+      "descripcion": "Aislante térmico una plaza",
+      "imagen": "./imagenes/aislantetermico.jpg",
+      "detalle": "Aislante térmico. Construido en goma EVA. Espesor: 10 mm.",
+      "precio": "$ 11400.-",
+      "puntuacion": "*****"
+    },
+    {
+      "codigo": "Producto 4",
+      "nombre": "Bolsa de dormir",
+      "descripcion": "Bolsa de dormir Alamo 20",
+      "imagen": "./imagenes/bolsadedormir.jpg",
+      "detalle": "Tejido exterior: Poliéster 68D/190T w/p. Tejido interior: 190T Poliéster. Relleno: Fibra hueca siliconada 200 g/m². Temperatura: +19°C – 0°C.",
+      "precio": "$ 23200.-",
+      "puntuacion": "****"
+    },
+    {
+      "codigo": "Producto 5",
+      "nombre": "Linterna",
+      "descripcion": "Linterna de mano CREE LED XML T6",
+      "imagen": "./imagenes/linterna.jpg",
+      "detalle": "Potencia luminosa: 600 lúmenes. Función Alto-Bajo, SOS. Con enfoque y zoom. Alumbra 150 mts. Resistente al agua. Hasta 8 Horas de luz. Resistente a impactos. IP54. Utiliza 3 pilas C, no incluídas.",
+      "precio": "$ 18300.-",
+      "puntuacion": "*****"
+    },
+    {
+      "codigo": "Producto 6",
+      "nombre": "Porta cubiertos",
+      "descripcion": "Porta cubiertos de mango de madera",
+      "imagen": "./imagenes/portacubiertos.jpg",
+      "detalle": "Estuche porta cubiertos para 2 personas con cubiertos de madera. Ideal para camping, pesca, etc.",
+      "precio": "$ 15100.-",
+      "puntuacion": "***"
+    }
+  ]
+}
